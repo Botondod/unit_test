@@ -1,7 +1,7 @@
 def sum(x,y):
     return x + y
 
-def subsract(x,y):
+def substract(x,y):
     return x-y
 
 def multiply(x,y):
